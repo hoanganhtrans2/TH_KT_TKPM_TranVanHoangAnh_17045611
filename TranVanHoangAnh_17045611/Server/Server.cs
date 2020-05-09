@@ -26,7 +26,7 @@ namespace Server
                 data = null;
                 NetworkStream stream = client.GetStream();
                 int i;
-                // Lặp lại để nhận tất cả dữ liệu được gửi bởi khách hàng.
+                // Lặp lại để nhận tất cả dữ liệu được gửi bởi clinet
                 while ((i = stream.Read(bytes, 0, bytes.Length)) != 0)
                 {
                     // chuyển byte sang ASSCII
