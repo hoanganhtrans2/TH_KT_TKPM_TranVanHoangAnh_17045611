@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\TranVanHoangAnh_17045611\Server\bin\Debug\Server.exe.config
+C:\Users\Admin\source\repos\TranVanHoangAnh_17045611\Server\bin\Debug\Server.exe
+C:\Users\Admin\source\repos\TranVanHoangAnh_17045611\Server\bin\Debug\Server.pdb
+C:\Users\Admin\source\repos\TranVanHoangAnh_17045611\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\TranVanHoangAnh_17045611\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\TranVanHoangAnh_17045611\Server\obj\Debug\Server.exe
+C:\Users\Admin\source\repos\TranVanHoangAnh_17045611\Server\obj\Debug\Server.pdb
+C:\TH_KT_TKPM_TranVanHoangAnh_17045611\TranVanHoangAnh_17045611\Server\bin\Debug\Server.exe.config
+C:\TH_KT_TKPM_TranVanHoangAnh_17045611\TranVanHoangAnh_17045611\Server\bin\Debug\Server.exe
+C:\TH_KT_TKPM_TranVanHoangAnh_17045611\TranVanHoangAnh_17045611\Server\bin\Debug\Server.pdb
+C:\TH_KT_TKPM_TranVanHoangAnh_17045611\TranVanHoangAnh_17045611\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\TH_KT_TKPM_TranVanHoangAnh_17045611\TranVanHoangAnh_17045611\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\TH_KT_TKPM_TranVanHoangAnh_17045611\TranVanHoangAnh_17045611\Server\obj\Debug\Server.exe
+C:\TH_KT_TKPM_TranVanHoangAnh_17045611\TranVanHoangAnh_17045611\Server\obj\Debug\Server.pdb
