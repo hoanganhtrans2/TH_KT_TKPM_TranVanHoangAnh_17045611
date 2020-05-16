@@ -1,0 +1,10 @@
+T:\TranVanHoangAnh\SendMessage\SendMessage\bin\Debug\SendMessage.exe.config
+T:\TranVanHoangAnh\SendMessage\SendMessage\bin\Debug\SendMessage.exe
+T:\TranVanHoangAnh\SendMessage\SendMessage\bin\Debug\SendMessage.pdb
+T:\TranVanHoangAnh\SendMessage\SendMessage\bin\Debug\Apache.NMS.ActiveMQ.dll
+T:\TranVanHoangAnh\SendMessage\SendMessage\bin\Debug\Apache.NMS.dll
+T:\TranVanHoangAnh\SendMessage\SendMessage\bin\Debug\Apache.NMS.pdb
+T:\TranVanHoangAnh\SendMessage\SendMessage\bin\Debug\Apache.NMS.ActiveMQ.pdb
+T:\TranVanHoangAnh\SendMessage\SendMessage\bin\Debug\Apache.NMS.ActiveMQ.xml
+T:\TranVanHoangAnh\SendMessage\SendMessage\obj\Debug\SendMessage.exe
+T:\TranVanHoangAnh\SendMessage\SendMessage\obj\Debug\SendMessage.pdb

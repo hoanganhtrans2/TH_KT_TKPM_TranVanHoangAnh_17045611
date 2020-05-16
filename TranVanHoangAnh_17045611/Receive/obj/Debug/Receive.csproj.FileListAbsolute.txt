@@ -1,0 +1,11 @@
+T:\TranVanHoangAnh\SendMessage\Receive\bin\Debug\Receive.exe.config
+T:\TranVanHoangAnh\SendMessage\Receive\bin\Debug\Receive.exe
+T:\TranVanHoangAnh\SendMessage\Receive\bin\Debug\Receive.pdb
+T:\TranVanHoangAnh\SendMessage\Receive\bin\Debug\Apache.NMS.ActiveMQ.dll
+T:\TranVanHoangAnh\SendMessage\Receive\bin\Debug\Apache.NMS.dll
+T:\TranVanHoangAnh\SendMessage\Receive\bin\Debug\Apache.NMS.pdb
+T:\TranVanHoangAnh\SendMessage\Receive\bin\Debug\Apache.NMS.ActiveMQ.pdb
+T:\TranVanHoangAnh\SendMessage\Receive\bin\Debug\Apache.NMS.ActiveMQ.xml
+T:\TranVanHoangAnh\SendMessage\Receive\obj\Debug\Receive.exe
+T:\TranVanHoangAnh\SendMessage\Receive\obj\Debug\Receive.pdb
+T:\TranVanHoangAnh\SendMessage\Receive\obj\Debug\Receive.csprojResolveAssemblyReference.cache
